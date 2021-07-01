@@ -200,6 +200,83 @@ html, body{
   font-size: 4vw;
 }
 
+.top-contact {
+  color: #fff;
+  background-color: black;
+  border: none;
+  border-radius: 1.55em;
+  box-shadow: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.9rem;
+  padding: .667em 1.333em;
+  margin-top: 50px;
+  text-align: center;
+  text-decoration: none;
+  overflow-wrap: break-word;
+}
+
+.top-contact:hover {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid black;
+}
+
+.middle_contact {
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 1.55em;
+  box-shadow: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.9rem;
+  padding: .667em 1.333em;
+  margin-top: 50px;
+  text-align: center;
+  text-decoration: none;
+  overflow-wrap: break-word;
+  border: 1px solid white;
+}
+
+.middle_contact:hover {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+
+
+.bottom-contact {
+  color: #fff;
+  background-color: black;
+  border: none;
+  border-radius: 1.55em;
+  box-shadow: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.9rem;
+  padding: .667em 1.333em;
+  margin-top: 30px;
+  text-align: center;
+  text-decoration: none;
+  overflow-wrap: break-word;
+}
+
+.bottom-contact:hover {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid black;
+}
+
+.contact-disc {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
 /* Profile Section */
 .profile_section {
   margin: 0 auto;
